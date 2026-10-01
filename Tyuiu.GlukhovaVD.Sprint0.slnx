@@ -1,5 +1,13 @@
 <Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.GlukhovaVD.Sprint0.Task0.V0/Tyuiu.GlukhovaVD.Sprint0.Task0.V0.csproj" Id="93bd9abd-eabb-4a49-97f4-d4dd84e8703e" />
+  </Folder>
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.GlukhovaVD.Sprint0/Tyuiu.GlukhovaVD.Sprint0.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.GlukhovaVD.Sprint0.Task2.V0.Lib/Tyuiu.GlukhovaVD.Sprint0.Task2.V0.Lib.csproj" Id="c646e041-7574-4897-969d-6901023128b7" />
+    <Project Path="Tyuiu.GlukhovaVD.Sprint0.Task2.V0.Test/Tyuiu.GlukhovaVD.Sprint0.Task2.V0.Test.csproj" Id="0aa1bd44-3b16-4365-8111-b159072ea08d" />
+    <Project Path="Tyuiu.GlukhovaVD.Sprint0.Task2.V0/Tyuiu.GlukhovaVD.Sprint0.Task2.V0.csproj" Id="1f111342-e5cf-41e0-b3e4-3d52928d95ca" />
   </Folder>
 </Solution>
